@@ -1,2 +1,2 @@
 # comunicacoes-computador
-This is a small reverse proxy that i wrote for Computer Communications curricular unit at university
+This is a small HTTP reverse proxy that i wrote for Computer Networks curricular unit at university
